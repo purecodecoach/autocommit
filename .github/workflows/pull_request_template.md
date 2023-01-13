@@ -16,4 +16,3 @@ Add screenshoot if you change the UI
 
 - [ ] Click 🌟 button to this repo
 - [ ] Follow the Author
-
