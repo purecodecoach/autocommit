@@ -18,4 +18,4 @@ Or just do in the manual way:
 - Consider to support me, at least click the 🌟 button
 
 
-© 2020 Crafted by Nicholi Jin
+© 2020 Crafted by [Nicholi Jin](https://nicholijin.com/)
